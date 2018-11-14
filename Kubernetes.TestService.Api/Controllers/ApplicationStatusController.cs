@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace Kubernetes.TestService.Controllers
+namespace Kubernetes.TestService.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
