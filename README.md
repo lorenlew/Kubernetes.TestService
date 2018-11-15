@@ -1,4 +1,4 @@
-# Kubernetes.TestService
+# Kubernetes Test Service
 
 *The test .NET Core service to verify the kubernetes cluster and related components, e.g. ingress*
 
