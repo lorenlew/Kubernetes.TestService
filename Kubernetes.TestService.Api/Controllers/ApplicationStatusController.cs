@@ -7,7 +7,7 @@ namespace Kubernetes.TestService.Api.Controllers
     public class ApplicationStatusController : ControllerBase
     {
         [HttpGet]
-        public ActionResult<int> Get()
+        public ActionResult Get()
         {
             return Ok();
         }
