@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <DockerTargetOS>Linux</DockerTargetOS>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
